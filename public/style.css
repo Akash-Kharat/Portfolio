@@ -263,7 +263,9 @@ img {
         transform: rotateY(360deg) rotateZ(-90deg);
     }
 }
-
+.info{
+    font-size: 2rem;
+}
 .flip-box-back a{
     margin: 5px;
     padding: 5px;
