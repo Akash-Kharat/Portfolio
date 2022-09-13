@@ -15,6 +15,7 @@
     z-index: 1;
     top: 0;
     left: 0;
+    display:none;
 }
 
 
@@ -24,7 +25,7 @@
 }
 /* Write CSS code below */
 .main-content{
-    margin-top:100px ;
+/*     margin-top:100px ; */
     min-height: 1000px;
     width: 100%;
     display: grid;
